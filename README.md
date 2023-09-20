@@ -1,4 +1,9 @@
 # AngularBlog
+A blog made for the Santader Bootcamp, by DIO
+### By Nathan
+
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/f0c25837a3fe0e03783b939559e088abcbfb3c4b/svgs/brands/github.svg" width="20px" height="20px">  [GitHub](https://github.com/NateD3V)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
