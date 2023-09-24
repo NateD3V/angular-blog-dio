@@ -1,0 +1,14 @@
+
+.container-menu ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+.container-menu li {
+    margin-right: 30px;
+}
+
+.menu-list li a:hover {
+    color: darkslateblue;
+}

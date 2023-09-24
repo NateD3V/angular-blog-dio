@@ -1,0 +1,40 @@
+.container-big-card {
+    /* border: 1px solid white; */
+    width: 400px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-left: 20px;
+    margin-right: 40px;
+
+}
+
+.container-big-card img{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    
+}
+
+.container-big-card h1,p{
+    margin-top: 10px;
+    text-align: justify;
+    
+}
+
+.big-card-title {
+    font-size: 0.8em;
+}
+
+
+.big-card-title a :hover {
+    color: darkslateblue;
+}
+
+.big-card-desc p {
+    color: rgb(150, 150, 150);
+    text-align: justify;
+}
