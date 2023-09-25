@@ -1,0 +1,18 @@
+/* Estilos para celulares */
+@media (max-width: 600px) {
+    
+
+    }
+
+  
+  /* Estilos para tablets */
+@media (min-width: 601px) and (max-width: 900px) {
+    
+
+    }
+  
+  /* Estilos para desktops */
+@media (min-width: 901px) {
+    
+
+    }
