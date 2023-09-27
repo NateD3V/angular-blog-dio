@@ -5,11 +5,11 @@
         rcset="">
     </div>
     <div class="big-card-title">
-        <a href="#"><h1>{{cardTitle}}</h1></a>
+        <a [routerLink]="['content',id]"><h1>{{cardTitle}}</h1></a>
     </div>
     <div class="big-card-desc">
         <a href="#">
-            <p>{{cardDesc}}</p>
+            <a [routerLink]="['content',id]"><p>{{cardDesc}}</p></a>
         </a>
         
     </div>
